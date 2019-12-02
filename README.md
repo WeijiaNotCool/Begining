@@ -1,2 +1,3 @@
 # Begining
-The first step in github
+The first step in githu
+By others.
